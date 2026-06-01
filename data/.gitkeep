@@ -1,0 +1,4 @@
+# Data directories — these are created automatically by the app on first run.
+# face_data/   : Raw captured face images, organised per user.
+# backups/     : Timestamped database backup files.
+# .gitkeep files below ensure git tracks empty directories.
